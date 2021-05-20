@@ -16,9 +16,10 @@ MonoBehaviour:
     m_Keys:
     - Assets/Scenes/SampleScene.unity
     - Assets/Scripts/Grid.cs
+    - Assets/Scripts/PathFinding.cs
     - ProjectSettings/ProjectVersion.txt
     - 
-    m_Values: 00000000
+    m_Values: 0000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
