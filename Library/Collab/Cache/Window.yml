@@ -15,9 +15,10 @@ MonoBehaviour:
   SimpleSelectedItems:
     m_Keys:
     - Assets/Scenes/SampleScene.unity
+    - Assets/Scripts/Grid.cs
     - ProjectSettings/ProjectVersion.txt
     - 
-    m_Values: 000000
+    m_Values: 00000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
