@@ -14,9 +14,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Materials/Blinky.mat
+    - Assets/Materials/Blinky.mat.meta
+    - Assets/Materials/Inky.mat
+    - Assets/Materials/Inky.mat.meta
+    - Assets/Prefabs/Blinky.prefab
+    - Assets/Prefabs/Blinky.prefab.meta
+    - Assets/Prefabs/Inky.prefab
+    - Assets/Prefabs/Inky.prefab.meta
+    - Assets/Prefabs/Pinky.prefab
+    - Assets/Scenes/PacmanLevel.unity
+    - Assets/Scripts/Gridd.cs
+    - Assets/Scripts/PathFinding.cs
     - ProjectSettings/ProjectVersion.txt
     - 
-    m_Values: 0000
+    m_Values: 0000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
